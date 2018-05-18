@@ -6,7 +6,7 @@ We aim to provide a service that makes it easy for players to find books, pamphl
 
 ### Lists
 
-[List of Books]() by Genre
+[List of Books](/books.md) by Genre
 
 [List of Libraries]()
 
