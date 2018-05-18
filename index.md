@@ -6,11 +6,11 @@ We aim to provide a service that makes it easy for players to find books, pamphl
 
 ### Lists
 
-[List of Books](/books.md) by Genre
+[List of Books](/books.html)
 
-[List of Libraries]()
+[List of Libraries](/libraries.html)
 
-[List of Vendors]()
+[List of Vendors](/vendors.html)
 
 ### How can I help?
 
