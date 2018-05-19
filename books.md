@@ -1,5 +1,7 @@
 ## Books of Civclassics
 
+* [All books sorted by genre](/listpages/book_genres.md) (Work in Progress)
+
 ### Featured Publications:
 
 #### A DoI of Cyberspace (1996)
