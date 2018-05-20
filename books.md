@@ -1,3 +1,9 @@
+---
+title:
+description:
+layout: post
+---
+
 ## Books of Civclassics
 
 * [All books sorted by genre](/listpages/book_genres.md) (Work in Progress)
