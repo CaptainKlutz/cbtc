@@ -2,6 +2,7 @@
 title:
 description:
 layout: post
+custom_css: sidenav
 ---
 
 ## Books of Civclassics
